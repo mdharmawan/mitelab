@@ -10,14 +10,14 @@ window.ABOUT = {
       name: 'Mohammad Arief Dharmawan',
       photo: '',
       links: [],
-      role: { en: 'Game designer and product owner', id: 'Perancang permainan dan pemilik produk' },
+      role: { en: 'Product owner', id: 'Product owner' },
       position: {
-        en: 'Doctoral candidate, Doctor of Science in Management, SBM ITB; SLB, Indonesia',
-        id: 'Kandidat doktor, Doktor Sains Manajemen, SBM ITB; SLB, Indonesia',
+        en: 'Doctoral candidate, Doctor of Science in Management, SBM ITB',
+        id: 'Kandidat doktor, Doktor Sains Manajemen, SBM ITB',
       },
       bio: {
-        en: 'Mohammad Arief Dharmawan is a doctoral candidate in the Doctor of Science in Management program at SBM ITB and the designer of this simulation. His research, the Digital Twin Adoption-Scaling Model (DT-ASM), studies how digital technologies are first adopted and then scaled in Indonesia’s upstream oil and gas sector, the same journey MITE Lab makes in this game. At SLB in Indonesia he leads a team working at the meeting point of oilfield technology and digital transformation, after a career that began in petrotechnical sales.',
-        id: 'Mohammad Arief Dharmawan adalah kandidat doktor pada program Doktor Sains Manajemen SBM ITB dan perancang simulasi ini. Risetnya, Digital Twin Adoption-Scaling Model (DT-ASM), mengkaji bagaimana teknologi digital diadopsi lalu diskalakan di sektor hulu minyak dan gas Indonesia, perjalanan yang sama dengan yang ditempuh MITE Lab dalam permainan ini. Di SLB Indonesia ia memimpin tim yang bekerja di titik temu teknologi lapangan migas dan transformasi digital, setelah memulai kariernya di bidang penjualan petroteknikal.',
+        en: 'Mohammad Arief Dharmawan is a doctoral candidate in the Doctor of Science in Management program at SBM ITB and the designer of this simulation. His research, the Digital Twin Adoption-Scaling Model (DT-ASM), studies how digital technologies are first adopted and then scaled in Indonesia’s upstream oil and gas sector, the same journey MITE Lab makes in this game.',
+        id: 'Mohammad Arief Dharmawan adalah kandidat doktor pada program Doktor Sains Manajemen SBM ITB dan perancang simulasi ini. Risetnya, Digital Twin Adoption-Scaling Model (DT-ASM), mengkaji bagaimana teknologi digital diadopsi lalu diskalakan di sektor hulu minyak dan gas Indonesia, perjalanan yang sama dengan yang ditempuh MITE Lab dalam permainan ini.',
       },
     },
     {
@@ -25,7 +25,7 @@ window.ABOUT = {
       name: 'Prof. Wawan Dhewanto, PhD',
       photo: '',
       links: [{ label: 'SBM ITB', url: 'https://www.sbm.itb.ac.id/?p=68130' }],
-      role: { en: 'Academic advisor (doctoral supervisor)', id: 'Penasihat akademik (pembimbing doktoral)' },
+      role: { en: 'Academic advisor', id: 'Penasihat akademik' },
       position: {
         en: 'Professor of Entrepreneurship, School of Business and Management, Institut Teknologi Bandung (SBM ITB)',
         id: 'Guru Besar Kewirausahaan, Sekolah Bisnis dan Manajemen, Institut Teknologi Bandung (SBM ITB)',
@@ -37,10 +37,10 @@ window.ABOUT = {
     },
     {
       id: 'eko',
-      name: 'Dr. Eko Agus Prasetio',
+      name: 'Dr.rer.pol. Eko Agus Prasetio, MBA, CIM',
       photo: '',
       links: [{ label: 'SBM ITB', url: 'https://sbm.itb.ac.id/member/eko-prasetio' }],
-      role: { en: 'Academic advisor (doctoral supervisor)', id: 'Penasihat akademik (pembimbing doktoral)' },
+      role: { en: 'Academic advisor', id: 'Penasihat akademik' },
       position: {
         en: 'Associate Professor in Management of Technological Innovation; Vice Dean for Academic Affairs; Head of the Management of Technology Laboratory, SBM ITB',
         id: 'Lektor Kepala bidang Manajemen Inovasi Teknologi; Wakil Dekan Bidang Akademik; Kepala Laboratorium Manajemen Teknologi, SBM ITB',
